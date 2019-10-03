@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39041" started-at="2019-10-01T08:28:51 IST" finished-at="2019-10-01T08:29:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39041" started-at="2019-10-01T08:28:51 IST" finished-at="2019-10-01T08:29:30 IST">
+      <class name="listenerimplementation.ListenersTest">
+        <test-method status="PASS" signature="browser()[pri:0, instance:listenerimplementation.ListenersTest@6e6c3152]" name="browser" is-config="true" duration-ms="20099" started-at="2019-10-01T08:28:51 IST" finished-at="2019-10-01T08:29:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="signup()[pri:1, instance:listenerimplementation.ListenersTest@6e6c3152]" name="signup" duration-ms="713" started-at="2019-10-01T08:29:12 IST" finished-at="2019-10-01T08:29:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="login()[pri:2, instance:listenerimplementation.ListenersTest@6e6c3152]" name="login" duration-ms="18123" started-at="2019-10-01T08:29:12 IST" finished-at="2019-10-01T08:29:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- listenerimplementation.ListenersTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
